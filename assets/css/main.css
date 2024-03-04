@@ -671,6 +671,9 @@ body{
 .intro--options p{
     margin-bottom:0
 }
+.intro--options a{
+    color: white;
+}
 @media (max-width: 900px){
     .intro--banner{
         height:380px
@@ -693,7 +696,8 @@ body{
         height:305px
     }
     .intro--banner h1{
-        font-size:44px
+        font-size:44px;
+        color: white;
     }
     .intro--banner img{
         width:330px
